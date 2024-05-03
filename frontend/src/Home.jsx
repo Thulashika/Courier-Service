@@ -5,7 +5,6 @@ import {TbTruckDelivery} from 'react-icons/tb'
 function Home() {
     
   return (
-    
     <div>
         <div>
             {/* <Link to='/Home'>Home</Link>
